@@ -2,14 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* more headers goes there */
-
-
-
-/* betty style doc for function main goes there */
+/**
+ * main -print if the number is positive, negative or 0
+ * Return: Always 0
+ */
 
 int main(void)
-
 {
 	int n;
 
@@ -23,7 +21,7 @@ int main(void)
 	if (n == 0)
 		printf("%d is zero\n", n);
 	if (n < 0)
-		printf("%d is positive\n", n);
+		printf("%d is negative\n", n);
 
 	return (0);
 }
