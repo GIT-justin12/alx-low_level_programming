@@ -20,10 +20,10 @@ int helperFunction(int num, int i)
 		{
 			return (helperFunction(num, i + 1));
 		}
-		else
-		{
-			return (1);
-		}
+	}
+	else
+	{
+		return (1);
 	}
 }
 
