@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-type struct listints
+type struct listint_s
 {
 	int n;
 	struct listint_s *next;
