@@ -10,7 +10,7 @@
 
 size_t listint_len(cont listint_t *h)
 {
-	size_tnum = 0;
+	size_t num = 0;
 
 	while (h)
 	{
