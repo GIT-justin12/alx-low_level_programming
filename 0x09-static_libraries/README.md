@@ -1,4 +1,4 @@
-Static libraries: projet C
+Static libraries: C projet
 ==========================
 Ressources
 ----------
@@ -9,7 +9,7 @@ Ressources
 
 Tasks
 -----
-###Task 0
+### Task 0
 - Name: A library is not a luxury but one of the necessities of life.
 - Files: libmy.a, main.h
 ### Task 1
