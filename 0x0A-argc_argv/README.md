@@ -25,3 +25,7 @@
 #### Task 4
 - Name: To infinity and beyond.
 - File: 4-add.c
+
+## Author
+- Name: Justin K. AGBOZO
+- Email: agbozojustin42@gmail.com
