@@ -3,10 +3,10 @@
 
 ## Ressources
 :information_source:Read or watch:
--[Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
--[argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
--[What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
--[How to compile with unsed variables](https://www.google.com/webhp?q=unused+variable+C)
+- [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
+- [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+- [What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
+- [How to compile with unsed variables](https://www.google.com/webhp?q=unused+variable+C)
 
 ## Tasks
 ### Mandatory tasks
