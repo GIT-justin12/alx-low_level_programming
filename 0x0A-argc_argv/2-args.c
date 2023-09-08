@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - Print the number of arguments passed into program.
+ * main - Print all arguments it receives.
  * @argc: Number of arguments.
  * @argv: Vector of string.
  *
@@ -10,8 +10,8 @@
  */
 int main(int argc, char *argv[])
 {
-	(void) argv;
-	printf("%d\n", argc - 1);
+	int i;
 
-	return (0);
+	for (i = 1; i < argc; i++)
+		printf("%s\n", argv[i]);
 }
