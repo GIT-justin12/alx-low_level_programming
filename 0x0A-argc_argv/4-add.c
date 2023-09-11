@@ -15,11 +15,11 @@ int main(int argc, char *argv[])
 	int i;
 
 	unsigned int j, sum = 0;
-	char *cheker;
+	char *checker;
 
 	if (argc > 1)
 	{
-		for (i = 1; i < strlen(checker); k++)
+		for (i = 1; i < argc; i++)
 		{
 			checker = argv[i];
 
