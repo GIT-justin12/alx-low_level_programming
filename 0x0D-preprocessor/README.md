@@ -26,3 +26,7 @@
 #### Task 4
 - Name: SUM
 - File: 4-sum.h
+
+## Author
+- Name: Justin K. AGBOZO
+- Email: agbozojustin42@gmail.com
