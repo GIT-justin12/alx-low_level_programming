@@ -1,6 +1,6 @@
 # C - Structure, typedef Projet
    In this projet we are going to learn what are structures, why and how use them. And know how to use **typedef**. Are you ready, let's go.
-![Big Dog](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/50af78a28a081e809856d4cdbde2d7ca9d4aa93d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230922T170053Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=81146239fdac8dc6e72940e24c78398f9c179efad3085fe89ae81490f5d9dc0b)
+![Big Dog](https://img.freepik.com/free-photo/isolated-happy-smiling-dog-white-background-portrait-4_1562-693.jpg?w=2000)
 ## Resource
 :information_source: Read:
 - [0x0d structure.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/6eb80c79c99f6125450a0dc11b300d46238d1a5a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230922T172110Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=172311e77c0ce5660b0d8edc81d39905001e86d5bab05d5e406b40d5071bb75f)
