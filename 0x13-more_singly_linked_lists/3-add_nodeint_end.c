@@ -25,7 +25,7 @@ if (head)
 
 	if (*head == NULL)
 	{
-		*head == new_list;
+		*head = new_list;
 		return (*head);
 	}
 	else
