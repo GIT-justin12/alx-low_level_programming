@@ -13,15 +13,15 @@
 
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
-	int i, count = 0;
-	unsigned long int current;
-	unsigned long int exclusive = n ^ m;
+	unsigned long int mask = 0, count 0;
 
-	for (i = 63; i >= 0; i--)
+	mask = n ^ m;
+	while (mask)
 	{
-		current = exclusive >> i;
-		if (current & 1)
+		if (mask & 1)
 			count++;
+
+		mask >>= 1;
 	}
 
 	return (count);
